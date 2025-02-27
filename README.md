@@ -18,7 +18,7 @@ cargo run       # run a project
 cargo test      # test a project
 cargo doc       # build documention
 
-cargo publish   # publish a libaray to crates.io
+cargo publish   # publish a library to crates.io
 
 cargo --version # display installed version
 ```
