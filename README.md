@@ -29,3 +29,8 @@ cargo build --release
 
 ./target/release/hello-rust
 ```
+
+## Visual Studio Code
+Install Extensions...
+- rust-analyzer
+- [others to be investigated]
