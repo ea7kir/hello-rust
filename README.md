@@ -1,4 +1,4 @@
-# Rust testing
+# hello-rust
 
 ## Install Rust
 ```
