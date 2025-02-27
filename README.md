@@ -18,7 +18,7 @@ cargo run       # run a project
 cargo test      # test a project
 cargo doc       # build documention
 
-cargo publish   # publish alibaray to crates.io
+cargo publish   # publish a libaray to crates.io
 
 cargo --version # display installed version
 ```
@@ -26,5 +26,6 @@ cargo --version # display installed version
 ## Release
 ```
 cargo build --release
+
 ./target/release/hello-rust
 ```
