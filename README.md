@@ -8,6 +8,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 In a folder of choice...
 ```
 cargo new hello-rust
+cd hello-rust
 cargo run
 ```
 
